@@ -1,20 +1,43 @@
 # Memory Game Project
+This is a game which players test their memory. Players pick cards from deck of 16 cards, and try to pair them.
 
 ## Table of Contents
+* [Overview](#Overview)
+* [Set up](#Setup) 
+* [How to Play](#HowtoPlay)
+* [What I've Learned](#WhatI'veLearned)
+* [Built With](#BuiltWith)
+* [Authors](#Authors)
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## Overview
+The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
-## Instructions
+## Set up 
+You only need a modern browser to play this game nothing more. Yay! 
+> Play the game online [here!](https://anacorral10.github.io/fend-project-memory-game-master)
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+## How to Play 
+* Flip one card over to reveal its underlying symbol.
+* Flip over a second card, try to find the corresponding card with the same symbol.
+* If the cards match, both cards stay flipped over.
+* If the cards do not match, both cards are flipped face down.
+* The game ends once all cards have been correctly matched. Goodluck! 
 
-To get started, open `js/app.js` and start building out the app's functionality
+## What I've Learned
+* Timer using setInterval() function
+* Add event listeners
+* Append and remove child
+* Implement game logic (set up rules)
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Built With
+* Pure vanilla JavaScript
+* Html5
+* Css3
 
-## Contributing
+## Authors 
+* Anastasia Corrales - [anacorral10](https://github.com/anacorral10/)
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+
+
+
