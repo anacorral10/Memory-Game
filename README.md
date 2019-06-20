@@ -4,9 +4,9 @@ This is a game which players test their memory. Players pick cards from deck of 
 ## Table of Contents
 * [Overview](#Overview)
 * [Set up](#Setup) 
-* [How to Play](#HowtoPlay)
-* [What I've Learned](#WhatI'veLearned)
-* [Built With](#BuiltWith)
+* [How to Play](#How-to-Play)
+* [What I've Learned](#What-I've-Learned)
+* [Built With](#Built-With)
 * [Authors](#Authors)
 
 ## Overview
