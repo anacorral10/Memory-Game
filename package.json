@@ -1,0 +1,16 @@
+{
+  "name": "fend-project-memory-game-master",
+  "version": "1.0.0",
+  "description": "## Table of Contents",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://anacorral10.github.io/memory-game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
