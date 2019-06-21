@@ -14,7 +14,7 @@ The game board consists of sixteen "cards" arranged in a grid. The deck is made 
 
 ## Set up 
 You only need a modern browser to play this game nothing more. Yay! 
-> Play the game online [here!](https://anacorral10.github.io/fend-project-memory-game-master)
+> Play the game online [here!](https://anacorral10.github.io/memory-game)
 
 ## How to Play 
 * Flip one card over to reveal its underlying symbol.
