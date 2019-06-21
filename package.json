@@ -1,7 +1,7 @@
 {
   "name": "fend-project-memory-game-master",
   "version": "1.0.0",
-  "description": "This Classic Arcade Game project is made as part of Front-End Nanodegree by Udacity, in order to practice object-oriented programming concepts.",
+  "description": "This Classic Arcade Game project is made as part of Front-End Nanodegree by Udacity, in order to practice javascript programming concepts.",
   "main": "app.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Anastasia Corrales",
   "license": "ISC",
-  "homepage":"https://anacorral10.github.io/fend-project-memory-game-master",
+  "homepage":"https://anacorral10.github.io/memory-game",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
